@@ -13,11 +13,7 @@
 - Game development projects (preferably with **Unity**).
 - Mobile app projects using **React Native**.
 - Real-time multiplayer experiences.
-
-## 📫 How to reach me:
-- You can reach out to me via [email](mailto:your-email@example.com).
-- Or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
-
+  
 ## ⚡ Fun fact:
 - I love exploring new tech and playing around with different game mechanics in Unity! 🎮
 
